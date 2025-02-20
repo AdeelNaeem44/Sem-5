@@ -32,7 +32,7 @@ Welcome to the 5th semester! This document provides an overview of the core subj
 **Resources:**
 - "Pattern Recognition and Machine Learning" by Christopher Bishop
 - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
-- Online Courses: Coursera, Udemy, Kaggle Notebooks
+- Online Courses: Coursera, Kaggle Notebooks
 
 ### 3. Data Mining (DM)
 **Topics Covered:**
@@ -41,12 +41,10 @@ Welcome to the 5th semester! This document provides an overview of the core subj
 - Classification and Clustering Techniques
 - Decision Trees and Rule-Based Classification
 - Outlier Detection and Anomaly Detection
-- Web and Text Mining
-- Big Data Analytics
 
 **Resources:**
 - "Data Mining: Concepts and Techniques" by Jiawei Han, Micheline Kamber, Jian Pei
-- Online Courses: DataCamp, Coursera, edX
+- Online Courses: DataCamp, Coursera
 - Kaggle Datasets for Practice
 
 ### 4. Operating Systems (OS)
@@ -71,9 +69,9 @@ Welcome to the 5th semester! This document provides an overview of the core subj
 - Join online study groups and forums for discussions.
 
 ## Useful Tools
-- **Programming Languages:** Python, R, Java, C
-- **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
-- **Visualization Tools:** Matplotlib, Seaborn, Tableau
+- **Programming Languages:** Python
+- **Libraries & Frameworks:**  PyTorch, Scikit-Learn, Pandas, NumPy
+- **Visualization Tools:** Matplotlib, Seaborn
 
 ## Conclusion
 This README serves as a guide to help you navigate through your 5th semester efficiently. Stay consistent, work on practical implementations, and keep exploring beyond the syllabus. Happy learning!
